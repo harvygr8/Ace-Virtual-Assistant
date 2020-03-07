@@ -1,11 +1,14 @@
+***
 # Ace-Virtual-Assistant
 
-##H2 A Python3 Modular Virtual Assistant with a Web,Terminal And Tkinter Interface
+##### A Modular Virtual Assistant with a Web,Terminal And Tkinter Interface
+
+***
 
 About
 =====
 
-Ace is a Virtual Assistant made in Python which hs a modular architecture.
+Ace is a Virtual Assistant made in Python which has a modular architecture.
 At the core is the VA's 'brain' which contains the chatbot model and all
 the modules are then integrated within the apps brain
 
@@ -21,10 +24,11 @@ Note: The App is still a W.I.P as in it doesnt have an exectuable version and to
 Modules
 =======
 As of 7th March 2020
--(Core Chatbot and Flask Interface "Brain" App)
--News Feed Application
--Weather Application
--WolframAlpha Query Application
+
+* (Core Chatbot and Flask Interface "Brain" App)
+* News Feed Application
+* Weather Application
+* WolframAlpha Query Application
 
 Chatbot
 =======
@@ -34,20 +38,32 @@ A trained model of the chatbot is available with the app
 
 Dependencies
 ============
--requests
--nltk
--numpy
--tensorflow
--tflearn
--json
--bs4
--urllib
+(Python 3.6  or above)
+* requests
+* nltk
+* numpy
+* tensorflow
+* tflearn
+* json
+* bs4
+* urllib
 
 TODO
 ====
--Make Tkinter Interface
--TinyAce(Terminal Interface)
--More Modules
+
+-[ ] Make Tkinter Interface
+-[ ] TinyAce(Terminal Interface)
+-[ ] More Modules
+
+Authors
+=======
+Harvinder Singh
+Vatsal Mehta
+Saumil Padwal
+Siddarth Nair
+Parth Vora
+
+
 
 
 
