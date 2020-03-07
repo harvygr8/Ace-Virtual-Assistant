@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/harvinder/Documents/Python_Projects/aceVA/AceBotModel.tflearn"
+all_model_checkpoint_paths: "/home/harvinder/Documents/Python_Projects/aceVA/AceBotModel.tflearn"
