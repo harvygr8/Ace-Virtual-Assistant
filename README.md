@@ -39,14 +39,8 @@ A trained model of the chatbot is available with the app
 Dependencies
 ============
 (Python 3.6  or above)
-* requests
-* nltk
-* numpy
-* tensorflow
-* tflearn
-* json
-* bs4
-* urllib
+
+`pip install -r requirements.txt`
 
 TODO
 ====
@@ -57,10 +51,10 @@ TODO
 
 Authors
 =======
-Harvinder Singh
-Vatsal Mehta
-Saumil Padwal
-Siddarth Nair
+Harvinder Singh\
+Vatsal Mehta\
+Saumil Padwal\
+Siddarth Nair\
 Parth Vora
 
 
