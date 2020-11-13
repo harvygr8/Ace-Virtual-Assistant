@@ -3,5 +3,5 @@ numpy==1.18.1
 nltk==3.4.5
 requests==2.18.4
 tflearn==0.3.2
-tensorflow==1.14.0
+tensorflow==2.3.1
 beautifulsoup4==4.8.2
